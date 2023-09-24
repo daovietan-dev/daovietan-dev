@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daovietan-dev
-- 👀 I’m interested in mobile apps development
+- 👀 I’m interested in game and web development
 - 🌱 I’m currently learning front-end development 
 - 💞️ I’m looking to collaborate on web devlopment
 - 📫 How to reach me on Gmail: daovietan0602@gmail.com
